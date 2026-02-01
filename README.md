@@ -28,7 +28,7 @@ node -v
 
 Clone the repository:
 
-git clone <your-github-repository-url>
+git clone (https://github.com/AppamAkhil/react-assignment.git)
 
 
 Navigate into the project directory:
